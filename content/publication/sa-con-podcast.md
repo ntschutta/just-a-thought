@@ -55,7 +55,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 
-url_custom = [{name = "Podcast", url = "https://www.oreilly.com/ideas/nathaniel-schutta-on-succeeding-as-a-software-architect"}, {name = "SoundCloud", url = "https://soundcloud.com/oreilly-radar/nathaniel-schutta-on-succeeding-as-a-software-architect"}]
+url_custom = [{name = "Podcast", url = "https://www.oreilly.com/ideas/nathaniel-schutta-on-succeeding-as-a-software-architect"}, {name = "SoundCloud", url = "https://soundcloud.com/oreilly-radar/nathaniel-schutta-on-succeeding-as-a-software-architect"}, {name = "iTunes", url = "https://itunes.apple.com/us/podcast/nathaniel-schutta-on-succeeding-as-a-software-architect/id1233195366?i=1000394887297&mt=2"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
