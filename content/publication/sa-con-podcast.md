@@ -1,5 +1,5 @@
 +++
-title = "O’Reilly Programming Podcast"
+title = "Succeeding as a Software Architect"
 date = 2017-11-16T16:51:11-06:00
 draft = false
 
@@ -23,7 +23,7 @@ publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "In this episode of the O’Reilly Programming Podcast, I talk with Nathaniel Schutta, a solutions architect at Pivotal, and presenter of the video I’m a Software Architect, Now What?. He will be giving a presentation titled Thinking Architecturally at the 2018 O’Reilly Software Architecture Conference, February 25-28, 2018, in New York City."
-abstract_short = "succeeding as a software architect"
+abstract_short = "O’Reilly Programming Podcast"
 
 # Featured image thumbnail (optional)
 image_preview = ""
