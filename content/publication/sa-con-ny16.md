@@ -23,7 +23,7 @@ publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "Do your diagrams truly visualize the software your team has to make? Do they actually guide development? Or have you become the dreaded “white board architect,” the pie-in-the-sky scribbler of useless boxes and arrows? Software architect Nathaniel Schutta erases those lousy sketches and replaces them with the diagrams you need: concept, context, component, deployment, sequence, security, and disaster recovery."
-abstract_short = "O'Reilly Software Architecture Conference"
+abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = "sa-con-ny16.jpg"

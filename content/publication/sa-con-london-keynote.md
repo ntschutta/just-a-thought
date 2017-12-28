@@ -23,7 +23,7 @@ publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "Nathaniel Schutta explains why an architect's job is to be a storyteller. Architects are essentially the Rosetta Stone of an organization, providing translation services (or, as some would call it, the elevator between the executive suite and the development floors). The challenge lies in not only crafting a compelling message but doing so for wildly disparate audiences."
-abstract_short = "O'Reilly Software Architecture Conference"
+abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = "sa-con-london.jpg"
