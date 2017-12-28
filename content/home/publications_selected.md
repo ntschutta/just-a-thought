@@ -28,5 +28,8 @@ list_format = 1
 #  4: Video
 #  5: Book
 #  6: Book chapter
+#  7: Conference Talk
+#  8: Workshop  
+#  9: Keynote 
 publication_type = "-1"
 +++

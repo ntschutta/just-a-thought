@@ -15,6 +15,9 @@ authors = [""]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
+# 7 = Conference Talk
+# 8 = Workshop  
+# 9 = Keynote 
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.

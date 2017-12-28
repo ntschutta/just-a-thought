@@ -158,7 +158,10 @@ defaultContentLanguageInSubdir = false
     'Work in progress',  # 3
     'Video',  # 4
     'Book',  # 5
-    'Book chapter'  # 6
+    'Book chapter',  # 6
+    'Conference Talk',  # 7
+    'Workshop',  # 8
+    'Keynote'  # 9
   ]
 
   # Configuration of talk pages.

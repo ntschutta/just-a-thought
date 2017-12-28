@@ -12,6 +12,21 @@ time_end = {{ .Date }}
 abstract = ""
 abstract_short = ""
 
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+# 7 = Conference Talk
+# 8 = Workshop  
+# 9 = Keynote  
+
+publication_types = ["0"]
+
 # Name of event and optional event URL.
 event = ""
 event_url = ""
