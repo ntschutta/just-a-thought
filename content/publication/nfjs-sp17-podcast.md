@@ -10,9 +10,9 @@ authors = ["Nate Schutta, Michael Carducci"]
 # Legend:
 # 0 = Uncategorized
 # 1 = Conference proceedings
-# 2 = Video
+# 2 = Podcast
 # 3 = Work in progress
-# 4 = Technical report
+# 4 = Video
 # 5 = Book
 # 6 = Book chapter
 publication_types = ["2"]
