@@ -30,10 +30,10 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["architecture", "architect", "ilities", "fundamentals", "talk", "conference", "thinking", "trade-offs", "technology", "techniques"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/Sifting-Technologies.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
