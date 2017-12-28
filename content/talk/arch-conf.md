@@ -31,9 +31,11 @@ math = false
 highlight = true
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+# Place your image in the `static/img/` folder and reference its filename below, e.g.
+
 [header]
-caption = "My caption :smile:"
+# image = "archconf.png"
+caption = ""
 
 +++
 
