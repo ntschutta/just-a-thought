@@ -50,12 +50,12 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.oreilly.com/ideas/nathaniel-schutta-on-succeeding-as-a-software-architect"
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 
-url_custom = [{name = "Podcast", url = "https://www.oreilly.com/ideas/nathaniel-schutta-on-succeeding-as-a-software-architect"}]
+url_custom = [{name = "Podcast", url = "https://www.oreilly.com/ideas/nathaniel-schutta-on-succeeding-as-a-software-architect"}, {name = "SoundCloud", url = "https://soundcloud.com/oreilly-radar/nathaniel-schutta-on-succeeding-as-a-software-architect"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
