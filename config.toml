@@ -156,7 +156,7 @@ defaultContentLanguageInSubdir = false
     'Conference proceedings',  # 1
     'Podcast',  # 2
     'Work in progress',  # 3
-    'Technical report',  # 4
+    'Video',  # 4
     'Book',  # 5
     'Book chapter'  # 6
   ]
