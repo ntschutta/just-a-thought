@@ -23,9 +23,9 @@ list_format = 1
 # -1: Any
 #  0: Uncategorized
 #  1: Conference proceedings
-#  2: Journal
+#  2: Podcast
 #  3: Work in progress
-#  4: Technical report
+#  4: Video
 #  5: Book
 #  6: Book chapter
 publication_type = "-1"
