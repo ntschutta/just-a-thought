@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "O’Reilly Programming Podcast"
-publication_short = ""
+publication_short = "O'Reilly Media, Inc."
 
 # Abstract and optional shortened version.
 abstract = "In this episode of the O’Reilly Programming Podcast, I talk with Nathaniel Schutta, a solutions architect at Pivotal, and presenter of the video I’m a Software Architect, Now What?. He will be giving a presentation titled Thinking Architecturally at the 2018 O’Reilly Software Architecture Conference, February 25-28, 2018, in New York City."

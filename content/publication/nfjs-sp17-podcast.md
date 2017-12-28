@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "No Fluff Just Stuff Podcast"
-publication_short = ""
+publication_short = "No Fluff Just Stuff"
 
 # Abstract and optional shortened version.
 abstract = "This week I have the opportunity to sit down with Nate Schutta. We had a fascinating conversation about the history and current state of Javascript along with it's evolution. We also dive into the evolution necessary to grow as a software engineer."

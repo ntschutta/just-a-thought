@@ -18,8 +18,8 @@ authors = ["Nathaniel Schutta"]
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "O'Reilly Media, Inc."
-publication_short = ""
+publication = "O'Reilly Software Architecture Conference - New York, New York"
+publication_short = "O'Reilly Media, Inc."
 
 # Abstract and optional shortened version.
 abstract = "Developers focus on functional requirements, but once you step into the architect role, your world is increasingly inhabited by the '-ilities'—the nonfunctional or quality attributes of a software system. But which '-ilities' matter and which don't? Nathaniel Schutta explores approaches to architectural problems and explains how to best document the inevitable decisions we arrive at."

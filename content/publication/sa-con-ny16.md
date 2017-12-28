@@ -18,8 +18,8 @@ authors = ["Nathaniel Schutta"]
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "O'Reilly Media, Inc."
-publication_short = ""
+publication = "O'Reilly Software Architecture Conference - New York, New York"
+publication_short = "O'Reilly Media, Inc."
 
 # Abstract and optional shortened version.
 abstract = "Do your diagrams truly visualize the software your team has to make? Do they actually guide development? Or have you become the dreaded “white board architect,” the pie-in-the-sky scribbler of useless boxes and arrows? Software architect Nathaniel Schutta erases those lousy sketches and replaces them with the diagrams you need: concept, context, component, deployment, sequence, security, and disaster recovery."
