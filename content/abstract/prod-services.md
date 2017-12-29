@@ -51,7 +51,7 @@ projects = []
 tags = ["architecture", "architect", "ilities", "fundamentals", "talk", "conference", "services", "trade-offs", "technology", "techniques", "microservices", "sre"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/Production-Hardened-Services.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""

@@ -48,7 +48,7 @@ projects = []
 tags = ["architecture", "architect", "ilities", "fundamentals", "talk", "conference", "thinking", "trade-offs", "technology", "techniques"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/Thinking-Architecturally.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
