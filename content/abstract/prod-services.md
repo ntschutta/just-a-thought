@@ -69,3 +69,7 @@ image = ""
 caption = ""
 
 +++
+### Full Abstract
+By now I bet your company has hundreds, maybe thousands of services, heck you might even consider some of them micro is stature! And while many organizations have plowed headlong down this particular architectural path, your spidey sense might be tingling…how do we keep this ecosystem healthy?
+
+In this talk, I will go beyond the buzzwords into the nitty gritty of actually succeeding with a service based architecture. We will cover the principles and practices that will make sure your systems are stable and resilient while allowing you to get a decent night's sleep!

@@ -68,3 +68,7 @@ image = ""
 caption = ""
 
 +++
+### Full Abstract
+If you’ve spent any amount of time in the software field, you’ve undoubtably found yourself in a (potentially heated) discussion about the merits of one technology, language or framework versus another. And while you may have enjoyed the technical debate, as software professionals, we owe it to our customers (as well as our future selves) to make good decisions when it comes to picking one technology over another.
+
+In this talk, I will explore what criteria we should consider when comparing technologies, how we can avoid burning platforms as well as what to do when we’ve reached a dead end. We will also apply these techniques to a current technology or two.

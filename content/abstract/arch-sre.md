@@ -69,3 +69,7 @@ image = ""
 caption = ""
 
 +++
+### Full Abstract
+Development teams often focus on getting code to production losing site of what comes after the design and build phase. But we must consider the full life cycle of our systems from inception to deployment through to sunset, a discipline many companies refer to as site reliability engineering.
+
+While your organization may or may not have an SRE team, you have someone playing that role and we can all benefit from looking at the principles and practices that we can bring to bear on our projects. In this talk, I will introduce the concepts of SRE and how you can adopt these ideas on your applications.
