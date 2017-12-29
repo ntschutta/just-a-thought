@@ -25,11 +25,14 @@ abstract_short = ""
 # 8 = Workshop  
 # 9 = Keynote  
 
-publication_types = ["0"]
+publication_types = ["7"]
 
 # Name of event and optional event URL.
 event = ""
 event_url = ""
+
+# Length of the talk
+duration = "45-90 minutes"
 
 # Location of event.
 location = ""
