@@ -23,7 +23,7 @@ abstract_short = ""
 #  6: Book chapter
 #  7: Conference Talk
 #  8: Workshop  
-#  9: Keynote 
+#  9: Keynote
 publication_types = ["7"]
 
 # Name of event and optional event URL.
@@ -52,7 +52,9 @@ url_slides = ""
 url_video = ""
 url_code = ""
 
+# Length of the talk
 duration = "45-90 minutes"
+
 # Does the content use math formatting?
 math = false
 
