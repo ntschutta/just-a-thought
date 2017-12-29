@@ -11,8 +11,10 @@ weight = 5
 [interests]
   interests = [
     "Architecture",
+    "Microservices",
     "Cloud Computing",
-    "Usability"
+    "Usability",
+    "Site Reliability Engineering"
   ]
 
 # List your qualifications (such as academic degrees).
