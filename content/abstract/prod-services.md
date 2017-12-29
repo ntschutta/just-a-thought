@@ -5,8 +5,8 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2017-12-29T08:03:52-06:00
-time_end = 2017-12-29T08:03:52-06:00
+# time_start = 2017-12-29T08:03:52-06:00
+# time_end = 2017-12-29T08:03:52-06:00
 
 # Abstract and optional shortened version.
 abstract = "By now I bet your company has hundreds, maybe thousands of services, heck you might even consider some of them micro is stature! And while many organizations have plowed headlong down this particular architectural path, your spidey sense might be tingling…how do we keep this ecosystem healthy?"
