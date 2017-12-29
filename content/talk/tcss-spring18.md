@@ -18,6 +18,10 @@ selected = true
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 # projects = ["Events"]
 
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["architecture", "architect", "services", "fundamentals", "nofluffjuststuff", "conference"]
+
 # Links (optional).
 url_pdf = ""
 url_slides = ""
@@ -36,5 +40,3 @@ highlight = true
 caption = "My caption :smile:"
 
 +++
-
-Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code.
