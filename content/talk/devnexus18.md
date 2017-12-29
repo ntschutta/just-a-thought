@@ -1,7 +1,8 @@
 +++
-date = 2017-01-01T00:00:00  # Schedule page publish date.
-
 title = "Devnexus"
+date = 2017-12-29T16:41:56-06:00  # Schedule page publish date.
+draft = false
+
 time_start = 2018-02-21T8:00:00
 time_end = 2018-02-23T17:00:00
 abstract = ""

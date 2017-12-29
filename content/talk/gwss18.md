@@ -1,7 +1,8 @@
 +++
-date = 2017-01-01T00:00:00  # Schedule page publish date.
-
 title = "Greater Wisconsin Software Symposium"
+date = 2017-12-29T16:43:59-06:00  # Schedule page publish date.
+draft = false
+
 time_start = 2018-02-23T8:00:00
 time_end = 2018-02-24T17:00:00
 abstract = ""

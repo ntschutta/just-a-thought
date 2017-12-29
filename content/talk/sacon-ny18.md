@@ -1,7 +1,8 @@
 +++
-date = 2017-01-01T00:00:00  # Schedule page publish date.
-
 title = "O’Reilly Software Architecture Conference "
+date = 2017-12-29T16:45:43-06:00  # Schedule page publish date.
+draft = false
+
 time_start = 2018-02-25T8:00:00
 time_end = 2018-02-28T17:00:00
 abstract = ""
