@@ -1,7 +1,7 @@
 +++
 title = "Arch Conf"
 date = 2017-12-29T16:38:19-06:00  # Schedule page publish date.
-draft = false
+draft = true
 
 time_start = 2017-12-11T8:00:00
 time_end = 2017-12-14T17:00:00
@@ -12,7 +12,7 @@ event_url = "https://archconf.com/conference/clearwater/2017/12/home"
 location = "Clearwater, FL"
 
 # Is this a selected talk? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
