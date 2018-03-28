@@ -1,6 +1,6 @@
 +++
-title = "Spring Days Boston"
-date = 2017-12-29T16:47:54-06:00  # Schedule page publish date.
+title = "SpringOne Tour Boston"
+date = 2017-12-29T16:47:30-06:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
@@ -13,7 +13,7 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Spring Days 2018 - Boston"
+event = "SpringOne Tour 2018 - Boston"
 event_url = "http://springdays.io/2018/boston"
 
 # Location of event.
