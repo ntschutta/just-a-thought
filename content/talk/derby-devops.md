@@ -20,7 +20,7 @@ event_url = "https://www.meetup.com/DevOps-Louisville/events/247316167/"
 location = "Louisville, KY"
 
 # Is this a selected talk? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.

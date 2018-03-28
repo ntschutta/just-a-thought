@@ -12,7 +12,7 @@ event_url = "https://nofluffjuststuff.com/conference/madison/2018/03/home"
 location = "Madison, WI"
 
 # Is this a selected talk? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
