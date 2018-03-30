@@ -51,7 +51,7 @@ projects = []
 tags = ["architecture", "talk", "conference", "services", "riff", "FaaS", "serverless", "k8s", "kubernetes", "docker", "spring"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/functions-platforms-containers.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
