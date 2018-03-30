@@ -1,7 +1,8 @@
 +++
 title = "Arch Conf"
 date = 2017-12-29T16:38:19-06:00  # Schedule page publish date.
-draft = true
+expiryDate = 2018-03-01
+draft = false
 
 time_start = 2017-12-11T8:00:00
 time_end = 2017-12-14T17:00:00

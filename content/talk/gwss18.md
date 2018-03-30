@@ -1,6 +1,7 @@
 +++
 title = "Greater Wisconsin Software Symposium"
 date = 2017-12-29T16:43:59-06:00  # Schedule page publish date.
+expiryDate = 2018-03-25
 draft = false
 
 time_start = 2018-02-23T8:00:00

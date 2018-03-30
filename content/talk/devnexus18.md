@@ -1,6 +1,7 @@
 +++
 title = "Devnexus"
 date = 2017-12-29T16:41:56-06:00  # Schedule page publish date.
+expiryDate = 2018-03-21
 draft = false
 
 time_start = 2018-02-21T8:00:00
