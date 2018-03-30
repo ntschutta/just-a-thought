@@ -24,7 +24,7 @@ weight = 40
 publication_type = "-1"
 
 # Number of talks to list.
-count = 10
+count = 12
 
 # List format.
 #   0 = Simple
