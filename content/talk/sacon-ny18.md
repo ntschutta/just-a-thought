@@ -1,6 +1,7 @@
 +++
 title = "O’Reilly Software Architecture Conference "
 date = 2017-12-29T16:45:43-06:00  # Schedule page publish date.
+expiryDate = 2018-03-25
 draft = false
 
 time_start = 2018-02-25T8:00:00
