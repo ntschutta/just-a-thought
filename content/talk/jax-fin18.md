@@ -1,6 +1,7 @@
 +++
 title = "JAX Finance"
 date = 2017-12-29T16:49:47-06:00  # Schedule page publish date.
+expiryDate = 2018-05-12
 draft = false
 
 # Talk start and end times.

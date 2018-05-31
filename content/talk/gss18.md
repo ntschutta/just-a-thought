@@ -1,6 +1,7 @@
 +++
 title = "Gateway Software Symposium"
 date = 2017-12-29T16:47:40-06:00  # Schedule page publish date.
+expiryDate = 2018-05-07
 draft = false
 
 # Talk start and end times.
