@@ -1,6 +1,7 @@
 +++
 title = "SpringOne Tour Denver"
 date = 2018-03-28T13:31:16-05:00  # Schedule page publish date.
+expiryDate = 2018-06-25
 draft = false
 
 # Talk start and end times.

@@ -1,6 +1,7 @@
 +++
 title = "Devoxx UK"
 date = 2018-02-01T14:12:41-06:00  # Schedule page publish date.
+expiryDate = 2018-06-25
 draft = false
 
 # Talk start and end times.

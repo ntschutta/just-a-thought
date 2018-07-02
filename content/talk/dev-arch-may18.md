@@ -1,6 +1,7 @@
 +++
 title = "From Developer to Software Architect"
 date = 2018-03-28T13:32:16-05:00  # Schedule page publish date.
+expiryDate = 2018-06-30
 draft = false
 
 # Talk start and end times.
