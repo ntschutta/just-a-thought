@@ -1,6 +1,6 @@
 +++
 title = "From Developer to Software Architect"
-date = 2018-07-02T09:45:07-05:00  # Schedule page publish date.
+date = 2018-08-07T09:00:37-05:00  # Schedule page publish date.
 expiryDate = 2018-09-15
 draft = false
 
