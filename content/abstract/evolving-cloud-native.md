@@ -51,7 +51,7 @@ projects = []
 tags = ["architecture", "talk", "conference", "services", "FaaS", "serverless", "k8s", "kubernetes", "docker", "spring", "cloud", "12factor", "microservices", "functions", "trade-offs", "technology", "techniques"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/evolving-cloud-native.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
