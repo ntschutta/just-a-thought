@@ -1,5 +1,5 @@
 +++
-title = "Thinking Arch Podcast"
+title = "Thinking Architecturally Podcast"
 date = 2018-09-07T12:03:31-05:00
 draft = false
 
