@@ -1,7 +1,7 @@
 +++
 title = "Saint Louis Spring Users Group"
 date = 2018-07-02T09:40:03-05:00  # Schedule page publish date.
-expiryDate = 2018-09-15
+expiryDate = 2018-09-05
 draft = false
 
 # Talk start and end times.
