@@ -73,4 +73,4 @@ image = ""
 caption = ""
 
 +++
-Michael and I got together to talk about my latest book project, [Thinking Architecturally](https://content.pivotal.io/ebooks/thinking-architecturally)! So you now you listen to my thoughts on being an architect, dealing w/ change, etc. Enjoy and please reach out with feedback!
+[Michael and I](https://twitter.com/ntschutta/status/1036970522796584961) got together to talk about my latest book project, [Thinking Architecturally](https://content.pivotal.io/ebooks/thinking-architecturally)! So you now you listen to my thoughts on being an architect, dealing w/ change, etc. Enjoy and please reach out with feedback!
